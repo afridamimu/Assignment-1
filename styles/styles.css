@@ -8,7 +8,6 @@
 }
 
 
-
 nav h1{
     font-family: Azeret Mono;
     font-weight: 800;
@@ -147,6 +146,7 @@ nav{
     margin-bottom: 32px;
 
 }
+
 
 .button-container3{
     box-sizing: border-box;
@@ -520,9 +520,8 @@ margin-bottom: 24px;
     max-width: 1140px;
     margin: 0 auto;
     border-radius: 16px;
-    /* background:url(../assets/handshake.jpg) rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2); */
+    
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/handshake.jpg);
-    /* background-image:url(../assets/handshake.jpg); */
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -595,6 +594,7 @@ margin-bottom: 24px;
     align-items: center;
 
 }
+
 
 .footer-container{
     max-width: 1440px;
